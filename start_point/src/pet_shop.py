@@ -74,3 +74,5 @@ def customer_can_afford_pet(customer, new_pet):
     else:
         return False
 
+#function to sell pet to customer
+#def sell_pet_to_customer(pet_shop, pet, customer):
